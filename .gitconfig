@@ -1,0 +1,5 @@
+[user]
+	name = Rodrigo Machado
+	email = 29443508+denioma@users.noreply.github.com
+[credential]
+	helper = /usr/share/doc/git/contrib/credential/libsecret/git-credential-libsecret
